@@ -39,7 +39,7 @@ df %>%
     xlim = c(0,2050),
     border = NA,
     col = "#CD0000",
-    height
+    height = 100
 )
   
 barplot( table(clean_df$subscribers))
