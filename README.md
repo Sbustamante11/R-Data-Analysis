@@ -7,7 +7,7 @@ https://www.kaggle.com/datasets/surajjha101/top-youtube-channels-data
 As a software engineer the purpose for writing this software to analyze data is to expand my knowledge of data science. This piece of software was done using the R language in RStudio. This software implements code to clean data, create graphs, measure metrics, and summarizes our data set. I wanted to learn how to organize a large data set and then analyze it for any patterns in R. Ultimately, this software provides the capability to take a data set, clean the raw data to make it useful, and answer important questions that provide future use for data science. 
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/eMbF0tiHzqY)
 
 # Data Analysis Results
 
@@ -30,7 +30,7 @@ The average number of videos per channel ranked in the top 100 was 15205.
 * [LinkedIn Learning](https://www.linkedin.com/learning)
 * [R documentation](https://www.rdocumentation.org)
 * [YouTube](https://www.youtube.com/watch?v=XBqnL2RUVcg)
-* 
+
 
 # Future Work
 
